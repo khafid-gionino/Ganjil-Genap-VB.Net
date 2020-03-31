@@ -1,0 +1,11 @@
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\GanjilGenap\GanjilGenap\bin\Debug\GanjilGenap.exe.config
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\GanjilGenap\GanjilGenap\bin\Debug\GanjilGenap.exe
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\GanjilGenap\GanjilGenap\bin\Debug\GanjilGenap.pdb
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\GanjilGenap\GanjilGenap\bin\Debug\GanjilGenap.xml
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\GanjilGenap\GanjilGenap\obj\Debug\GanjilGenap.vbprojResolveAssemblyReference.cache
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\GanjilGenap\GanjilGenap\obj\Debug\GanjilGenap.Form1.resources
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\GanjilGenap\GanjilGenap\obj\Debug\GanjilGenap.Resources.resources
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\GanjilGenap\GanjilGenap\obj\Debug\GanjilGenap.vbproj.GenerateResource.Cache
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\GanjilGenap\GanjilGenap\obj\Debug\GanjilGenap.exe
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\GanjilGenap\GanjilGenap\obj\Debug\GanjilGenap.xml
+D:\Δ Smad-Lock (Brankas Smadav) Δ\kuliah\semester 6\Framwork.net\GanjilGenap\GanjilGenap\obj\Debug\GanjilGenap.pdb
